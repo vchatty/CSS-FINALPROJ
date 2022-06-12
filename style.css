@@ -1,0 +1,74 @@
+img {
+    width: 20%;
+}
+
+.navbar {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+a:link {
+    color: black;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.container {
+    display: flex;
+}
+
+.a-flex {
+    border: solid 2px pink;
+    display: flex;
+    width: 30%;
+    height: auto; 
+    margin: 40px;
+}
+
+.b-flex {
+    border: solid 2px pink;
+    display: flex;
+    width: 30%;
+    height: auto; 
+    margin: 40px;
+}
+
+.c-flex {
+    border: solid 2px pink;
+    display: flex;
+    width: 30%;
+    height: auto; 
+    margin: 40px;
+}
+.d-flex {
+    border: solid 2px pink;
+    display: flex;
+    width: 30%;
+    height: auto; 
+    margin: 40px;
+}
+
+.e-flex {
+    border: solid 2px pink;
+    display: flex;
+    width: 30%;
+    height: auto; 
+    margin: 40px;
+}
+
+.f-flex {
+    border: solid 2px pink;
+    display: flex;
+    width: 30%;
+    height: auto; 
+    margin: 40px;
+}
+
+.logo {
+    width: 10px;
+   display: absolute;
+
+}
+
